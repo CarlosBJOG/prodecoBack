@@ -1,0 +1,51 @@
+body {
+    ()
+    background:url(background.jpg); /* Nuestra textura */
+    background-repeat:no-repeat; /* Indicamos que la textura se repetira */
+    background-size:cover; /* Encajamos la imagen al 100% del ancho */
+    background-attachment: fixed; /* Establecemos una posicion fija para la textura */
+    font-family:helvetica, arial, sans-serif;
+    line-height:20px;
+}
+
+            body
+            {
+               background:#5eb2b3;
+                /*
+                background: #3598dc;
+                */
+            }
+
+            *
+            {
+                font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif;
+                font-weight: 400;
+                font-size: 14px;
+            }
+
+            .form-control-label,.form-check-input,.form-check-label
+            {
+                font-size: 12px;
+            }
+
+            .form-control
+            {
+                font-size:12px;
+            }
+
+            table,td,option
+            {
+                font-size:11px;
+            }
+
+            th
+            {
+                line-height: 10px;
+                font-size:11px;
+            }
+
+
+            textarea
+            {
+                resize: none;
+            }
